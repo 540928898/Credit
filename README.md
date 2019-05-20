@@ -1,6 +1,6 @@
 ### Three parts
 
-1. Reconige System
+1. Reconige System 
 
 2. GAN System
 
